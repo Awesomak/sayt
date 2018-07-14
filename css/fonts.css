@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "HelveticaNeue";
+	src: url("../fonts/HelveticaNeue.ttf");
+}
+
+@font-face {
+	font-family: "HelveticaNeueBold";
+	src: url("../fonts/HelveticaNeueBold.ttf");
+}
+
+@font-face {
+	font-family: "HelveticaNeueLight";
+	src: url("../fonts/HelveticaNeueLight/HelveticaNeueLight.eot");
+	src: url("../fonts/HelveticaNeueLight/HelveticaNeueLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/HelveticaNeueLight/HelveticaNeueLight.woff") format("woff"),
+			 url("../fonts/HelveticaNeueLight/HelveticaNeueLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
